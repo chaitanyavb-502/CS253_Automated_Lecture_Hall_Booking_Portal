@@ -4,7 +4,7 @@ A web-based system for managing lecture hall bookings at IIT Kanpur, developed b
 
 ## Overview
 
-This portal provides a streamlined solution for booking lecture halls and tutorial rooms at IIT Kanpur. It features separate interfaces for students, faculty, and administrators with different permission levels, automated email notifications, booking approval workflows, and comprehensive reporting. This web-app is aimed to automate and improve the current process of booking Lecture Halls at IITK by Professors and student bodies like clubs, socities etc.
+This portal provides a streamlined solution for booking lecture halls and tutorial rooms at IIT Kanpur. It features separate interfaces for students, faculty, and administrators with different permission levels, automated email notifications, booking approval workflows, and comprehensive reporting. This web app aims to automate and improve the current process of booking Lecture Halls at IITK by Professors and student bodies like clubs, societies etc.
 
 ## Features
 
@@ -15,7 +15,7 @@ This portal provides a streamlined solution for booking lecture halls and tutori
 
 - **Room Management**
   - View detailed information about lecture halls and tutorial blocks
-  - Filter rooms by capacity, available facilities, and type
+  - Filter rooms by capacity and available facilities
 
 - **Booking System**
   - Easy-to-use booking interface
@@ -129,6 +129,8 @@ This portal provides a streamlined solution for booking lecture halls and tutori
    - Backend: http://localhost:8000/
    - Frontend: http://localhost:5173/
 
+For a step-by-step guide on how to use the system as a student, faculty, or admin, please refer to the [User Manual](Docs/usermanual.pdf).
+
 ## Project Team
 
 ### Developers
@@ -150,5 +152,4 @@ CS253 - Software Development and Operations
 Souvik Mukherjee
 
 ## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is not currently open source. All rights reserved to the original authors. For academic or demo use only.
