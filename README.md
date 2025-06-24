@@ -1,6 +1,6 @@
 # Automated Lecture Hall Booking Portal
 
-A web-based system for managing lecture hall bookings at IIT Kanpur, developed by Group 12 (Aviators) as a course project for the course CS253.
+A web-based system for managing lecture hall bookings at IIT Kanpur, developed by Group 10 (Aviators) as a course project for the course CS253.
 
 ## Overview
 
